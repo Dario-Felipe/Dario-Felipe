@@ -5,7 +5,7 @@ Acredito que esforço é o ingrediente principal no aprendizado e em todas as á
   
 ## Linguagens mais codadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contatos
 <a href="https://www.linkedin.com/in/dariofelipe" target="_blank">
