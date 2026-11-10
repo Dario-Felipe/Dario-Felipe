@@ -1,13 +1,14 @@
-# Hey everyone! 🤜🏽🤛🏽
-### Meu nome é Dário Felipe e sou Desenvolvedor Front-end 🚀
+# Hey everyone, I'm Dário Felipe! 🤝
 
-Acredito que esforço é o ingrediente principal no aprendizado e em todas as áreas da vida, e nesse contexto me considero uma pessoa esforçada, fácil de me adaptar a diferentes locais e situações; Mantendo ao máximo a boa comunicação interpessoal para com todos, sempre buscando aprender e adquirir novas experiências ao longo da vida. Almejo ascender cada vez mais no âmbito profissional e intelectual utilizando das tecnologias atuais para tal.
+I am a Front-end Developer focused on building scalable, performant, and AI-driven user interfaces. Currently working as a Mid-level Front-end Developer at Wellhub.
+
+I believe continuous effort is the key to mastering new technologies. I thrive in adaptable, fast-paced environments and am always eager to tackle complex architectural challenges while keeping a strong focus on teamwork and clear communication.
   
-## Linguagens mais codadas
+## Most used languages
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contatos
+## Contacts
 <a href="https://www.linkedin.com/in/dariofelipe" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
